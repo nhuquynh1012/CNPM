@@ -1,0 +1,45 @@
+[{
+  "id": 1,
+  "name": "iphone 13 promax",
+  "price": 1000021,
+  "image": "https://res.cloudinary.com/dbtj3yo7j/image/upload/v1730040715/refurb-iphone-14-pro-spaceblack-202404_mhuzb9.jpg",
+  "product_id": 1
+},
+  {
+  "id": 2,
+  "name": "iphone 13 promax",
+  "price": 1000021,
+  "image": "https://res.cloudinary.com/dbtj3yo7j/image/upload/v1730040715/refurb-iphone-14-pro-spaceblack-202404_mhuzb9.jpg",
+  "product_id": 2
+},{
+  "id": 3,
+  "name": "iphone 13 promax",
+  "price": 1000021,
+  "image": "https://res.cloudinary.com/dbtj3yo7j/image/upload/v1730040715/refurb-iphone-14-pro-spaceblack-202404_mhuzb9.jpg",
+  "product_id": 3
+},{
+  "id": 4,
+  "name": "iphone 13 promax",
+  "price": 1000021,
+  "image": "https://res.cloudinary.com/dbtj3yo7j/image/upload/v1730040715/refurb-iphone-14-pro-spaceblack-202404_mhuzb9.jpg",
+  "product_id": 4
+},{
+  "id": 5,
+  "name": "iphone 13 promax",
+  "price": 1000021,
+  "image": "https://res.cloudinary.com/dbtj3yo7j/image/upload/v1730040715/refurb-iphone-14-pro-spaceblack-202404_mhuzb9.jpg",
+  "product_id": 5
+},{
+  "id": 6,
+  "name": "samsung",
+  "price": 1000021,
+  "image": "https://res.cloudinary.com/dbtj3yo7j/image/upload/v1730040715/refurb-iphone-14-pro-spaceblack-202404_mhuzb9.jpg",
+  "product_id": 6
+},{
+  "id": 7,
+  "name": "iphone 13 promax",
+  "price": 1000021,
+  "image": "https://res.cloudinary.com/dbtj3yo7j/image/upload/v1730040715/refurb-iphone-14-pro-spaceblack-202404_mhuzb9.jpg",
+  "product_id": 7
+}
+]
